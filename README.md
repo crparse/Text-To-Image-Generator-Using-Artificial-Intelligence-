@@ -1,5 +1,5 @@
 
-# Outut Images:
+# Output Images:
 
 ![city](https://github.com/crparse/Text-To-Image-Generator-Using-Artificial-Intelligence-/assets/98864892/521ae2e6-6804-46c7-92a3-d7721d9369f7)
 
